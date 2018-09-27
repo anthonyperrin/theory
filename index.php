@@ -126,7 +126,7 @@ $class = array(
         '#F58CBA',
         3,
         array(
-            'images/spec_icons/pala_prot.png',            
+            'http://blzmedia-a.akamaihd.net/wow/icons/56/ability_paladin_shieldofthetemplar.jpg',
             'Protection',
             false,
         ),
@@ -212,7 +212,7 @@ $class = array(
         ),
         array(
             'images/spec_icons/warlock_affli.png',            
-            'Afflication',
+            'Affliction',
             false,
         ),
         array(

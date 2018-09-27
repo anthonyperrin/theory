@@ -134,11 +134,11 @@ $members = array(
         'BREWJITSU',
         0,
         2,
-        '#00FF96',
-        'Monk',
+        '#FFF569',
+        'Rogue',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Brewjitsu',
         'https://raider.io/characters/eu/ysondre/Brewjitsu',
-        'images/class_icon/icon_monk.png'
+        'images/class_icon/icon_rogue.png'
     ),
     array(
         'HERATOSTHENE',
