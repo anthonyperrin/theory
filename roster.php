@@ -21,6 +21,16 @@ $members = array(
         'images/class_icon/icon_monk.png'
     ),
     array(
+        'HGEGEN',
+        0,
+        0,
+        '#F58CBA',
+        'Paladin',
+        'https://worldofwarcraft.com/en-gb/character/ysondre/Ohno',
+        'https://raider.io/characters/eu/ysondre/Ohno',
+        'images/class_icon/icon_paladin.png'
+    ),
+    array(
         'SAIKSYPWNZ',
         1,
         1,
@@ -29,16 +39,6 @@ $members = array(
         'https://worldofwarcraft.com/en-gb/character/ysondre/Saiksypwnz',
         'https://raider.io/characters/eu/ysondre/Saiksypwnz',
         'images/class_icon/icon_monk.png'
-    ),
-    array(
-        'SERAHF',
-        0,
-        1,
-        '#F58CBA',
-        'Paladin',
-        'https://worldofwarcraft.com/en-gb/character/ysondre/Ohno',
-        'https://raider.io/characters/eu/ysondre/Ohno',
-        'images/class_icon/icon_paladin.png'
     ),
     array(
         'ZHOUMPO',

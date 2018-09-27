@@ -136,7 +136,7 @@ $class = array(
             false,
         ),
         array(
-            'images/spec_icons/pala_holy.png',            
+            'http://blzmedia-a.akamaihd.net/wow/icons/56/spell_holy_holybolt.jpg',
             'Miracle',
             false
         )
@@ -331,7 +331,7 @@ $class = array(
                     <div class="col-12">
                         <p class="mb-0">Uldir MM</p>
                         <div class="progress">
-                            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;"></div>
+                            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="12.5" aria-valuemin="0" aria-valuemax="100" style="width: 12.5%;">1 / 8</div>
                         </div>     
                     </div>
                 </div>
@@ -339,7 +339,7 @@ $class = array(
                     <div class="col-12">
                         <p class="mb-0">Uldir HM</p>
                         <div class="progress">
-                            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;"></div>
+                            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">8 / 8</div>
                         </div>     
                     </div>
                 </div>
@@ -347,7 +347,7 @@ $class = array(
                     <div class="col-12">
                         <p class="mb-0">Antorus HM</p>
                         <div class="progress">
-                            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;"></div>
+                            <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">11 / 11</div>
                         </div>
                     </div>
                 </div>
@@ -381,7 +381,7 @@ Snoddy, Guild Master.
                 </div>
             </div>
             <div class="col-md-4 col-sm-12 panel">
-                <div class="panelshadow">
+                <div class="panelshadow container-fluid">
                 
                     <div class="title row justify-content-between panelheader">
                         <div class="col-7">
@@ -392,7 +392,8 @@ Snoddy, Guild Master.
                     </div> -->
                     </div>
                     <div class="row pt-3 pb-3 mb-4 panelbg">
-                        <div class="col-12">
+                        <div style="width: 100%;">
+
                             <ul class="list-group">
                             <?php
                             foreach ($class as $c) {
@@ -414,7 +415,7 @@ Snoddy, Guild Master.
                         </div>
                     </div>
                 </div>
-                <div class="panelshadow">
+                <div class="panelshadow container-fluid">
                     <div class="title row justify-content-between panelheader">
                         <div class="col-7">
                             <h2>TWITTER</h2>
