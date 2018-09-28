@@ -6,17 +6,17 @@ $class = array(
         '#C41F3B',
         3,
         array(
-            'images/spec_icons/dk_blood.png',
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_deathknight_bloodpresence.jpg',
             'Sang',
             false,
         ),
         array(
-            'images/spec_icons/dk_frost.png',
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_deathknight_frostpresence.jpg',
             'Givre',
             false,
         ),
         array(
-            'images/spec_icons/dk_unholy.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_deathknight_unholypresence.jpg',
             'Impie',
             false
         )
@@ -26,12 +26,12 @@ $class = array(
         '#A330C9',
         2,
         array(
-            'images/spec_icons/dh_havoc.png',
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_demonhunter_havoc.jpg',
             'Dévastation',
             false,
         ),
         array(
-            'images/spec_icons/dh_vengeance.png',
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_demonhunter_vengeance.jpg',
             'Vengeance',
             false
         )
@@ -41,22 +41,22 @@ $class = array(
         '#FF7D0A',
         4,
         array(
-            'images/spec_icons/druid_resto.png',
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_nature_healingtouch.jpg',
             'Restauration',
             false,
         ),
         array(
-            'images/spec_icons/druid_moonkin.png',
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_nature_starfall.jpg',
             'Equilibre',
             false,
         ),
         array(
-            'images/spec_icons/druid_feral.png',
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_druid_catform.jpg',
             'Combat farouche',
             false,
         ),
         array(
-            'images/spec_icons/druid_guardian.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_racial_bearform.jpg',
             'Gardien',
             false
         )
@@ -66,17 +66,17 @@ $class = array(
         '#ABD473',
         3,
         array(
-            'images/spec_icons/hunter_bm.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_hunter_bestialdiscipline.jpg',
             'Maîtrise des bêtes',
             false,
         ),
         array(
-            'images/spec_icons/hunter_survival.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_hunter_camouflage.jpg',
             'Survie',
             false,
         ),
         array(
-            'images/spec_icons/hunter_marksmanship.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_hunter_focusedaim.jpg',
             'Précision',
             false
         )
@@ -86,17 +86,17 @@ $class = array(
         '#40C7EB',
         3,
         array(
-            'images/spec_icons/mage_arcane.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_holy_magicalsentry.jpg',
             'Arcane',
             false,
         ),
         array(
-            'images/spec_icons/mage_frost.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_frost_frostbolt02.jpg',
             'Givre',
             false,
         ),
         array(
-            'images/spec_icons/mage_fire.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_fire_firebolt02.jpg',
             'Feu',
             false
         )
@@ -106,17 +106,17 @@ $class = array(
         '#00FF96',
         3,
         array(
-            'images/spec_icons/monk_mistweaver.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_monk_mistweaver_spec.jpg',
             'Tisse-brûme',
             false,
         ),
         array(
-            'images/spec_icons/monk_windwalker.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_monk_windwalker_spec.jpg',
             'Marche-vent',
             false,
         ),
         array(
-            'images/spec_icons/monk_brewmaster.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_monk_brewmaster_spec.jpg',
             'Maître brasseur',
             false
         )
@@ -126,17 +126,17 @@ $class = array(
         '#F58CBA',
         3,
         array(
-            'http://blzmedia-a.akamaihd.net/wow/icons/56/ability_paladin_shieldofthetemplar.jpg',
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_paladin_shieldofthetemplar.jpg',
             'Protection',
             false,
         ),
         array(
-            'images/spec_icons/pala_ret.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_holy_auraoflight.jpg',
             'Retribution',
             false,
         ),
         array(
-            'http://blzmedia-a.akamaihd.net/wow/icons/56/spell_holy_holybolt.jpg',
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_holy_holybolt.jpg',
             'Miracle',
             false
         )
@@ -146,17 +146,17 @@ $class = array(
         '#fff',
         3,
         array(
-            'images/spec_icons/priest_shadow.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_shadow_shadowwordpain.jpg',
             'Ombre',
             false,
         ),
         array(
-            'images/spec_icons/priest_disc.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_holy_powerwordshield.jpg',
             'Discipline',
             false,
         ),
         array(
-            'images/spec_icons/priest_holy.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_holy_guardianspirit.jpg',
             'Miracle',
             false
         )
@@ -166,17 +166,17 @@ $class = array(
         '#FFF569',
         3,
         array(
-            'images/spec_icons/rogue_outlaw.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/inv_sword_30.jpg',
             'Hors-la-loi',
             false,
         ),
         array(
-            'images/spec_icons/rogue_assa.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_rogue_deadlybrew.jpg',
             'Assassinat',
             false,
         ),
         array(
-            'images/spec_icons/rogue_sub.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_stealth.jpg',
             'Finesse',
             false
         )
@@ -186,17 +186,17 @@ $class = array(
         '#0070DE',
         3,
         array(
-            'images/spec_icons/sham_amelio.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_nature_lightningshield.jpg',
             'Amélioration',
             false,
         ),
         array(
-            'images/spec_icons/shaman_elem.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_nature_lightning.jpg',
             'Elémentaire',
             false,
         ),
         array(
-            'images/spec_icons/sham_resto.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_nature_magicimmunity.jpg',
             'Restauration',
             false
         )
@@ -206,17 +206,17 @@ $class = array(
         '#8787ED',
         3,
         array(
-            'images/spec_icons/warlock_destru.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_shadow_rainoffire.jpg',
             'Destruction',
             false,
         ),
         array(
-            'images/spec_icons/warlock_affli.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_shadow_deathcoil.jpg',
             'Affliction',
             false,
         ),
         array(
-            'images/spec_icons/warlock_demono.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_shadow_metamorphosis.jpg',
             'Démonologie',
             false
         )
@@ -226,17 +226,17 @@ $class = array(
         '#C79C6E',
         '3',
         array(
-            'images/spec_icons/war_prot.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_warrior_defensivestance.jpg',
             'Protection',
             false,
         ),
         array(
-            'images/spec_icons/war_fury.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_warrior_innerrage.jpg',
             'Fureur',
             false,
         ),
         array(
-            'images/spec_icons/war_arms.png',            
+            'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_warrior_savageblow.jpg',
             'Arme',
             false
         )

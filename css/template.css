@@ -123,9 +123,11 @@ hr {
 
 }
 .spe-circle {
-    border-radius: 8px;
-    height: 16px;
-    width: 16px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 9px;
+    height: 18px;
+    width: 18px;
 }
 .panel p {
     font-family: 'Open Sans', sans-serif;
