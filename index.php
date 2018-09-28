@@ -7,17 +7,20 @@ $class = array(
         3,
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_deathknight_bloodpresence.jpg',
-            'Sang',
+            'Blood',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_deathknight_frostpresence.jpg',
-            'Givre',
+            'Frost',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_deathknight_unholypresence.jpg',
-            'Impie',
+            'Unholy',
+            false,
             false
         )
     ),
@@ -27,12 +30,14 @@ $class = array(
         2,
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_demonhunter_havoc.jpg',
-            'Dévastation',
+            'Havoc',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_demonhunter_vengeance.jpg',
             'Vengeance',
+            false,
             false
         )
     ),
@@ -42,23 +47,27 @@ $class = array(
         4,
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_nature_healingtouch.jpg',
-            'Restauration',
+            'Restoration',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_nature_starfall.jpg',
-            'Equilibre',
+            'Balance',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_druid_catform.jpg',
-            'Combat farouche',
+            'Feral',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_racial_bearform.jpg',
-            'Gardien',
-            false
+            'Gardian',
+            false,
+            true
         )
     ),
     array(
@@ -67,17 +76,20 @@ $class = array(
         3,
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_hunter_bestialdiscipline.jpg',
-            'Maîtrise des bêtes',
+            'Beast Mastery',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_hunter_camouflage.jpg',
-            'Survie',
+            'Survival',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_hunter_focusedaim.jpg',
-            'Précision',
+            'Marksmanship',
+            false,
             false
         )
     ),
@@ -89,15 +101,18 @@ $class = array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_holy_magicalsentry.jpg',
             'Arcane',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_frost_frostbolt02.jpg',
-            'Givre',
+            'Frost',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_fire_firebolt02.jpg',
-            'Feu',
+            'Fire',
+            false,
             false
         )
     ),
@@ -107,17 +122,20 @@ $class = array(
         3,
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_monk_mistweaver_spec.jpg',
-            'Tisse-brûme',
+            'Mistweaver',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_monk_windwalker_spec.jpg',
-            'Marche-vent',
+            'Windwalker',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_monk_brewmaster_spec.jpg',
-            'Maître brasseur',
+            'Brewmaster',
+            false,
             false
         )
     ),
@@ -129,6 +147,7 @@ $class = array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_paladin_shieldofthetemplar.jpg',
             'Protection',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_holy_auraoflight.jpg',
@@ -137,7 +156,8 @@ $class = array(
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_holy_holybolt.jpg',
-            'Miracle',
+            'Holy',
+            false,
             false
         )
     ),
@@ -147,17 +167,20 @@ $class = array(
         3,
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_shadow_shadowwordpain.jpg',
-            'Ombre',
+            'Shadow',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_holy_powerwordshield.jpg',
             'Discipline',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_holy_guardianspirit.jpg',
-            'Miracle',
+            'Holy',
+            false,
             false
         )
     ),
@@ -167,17 +190,18 @@ $class = array(
         3,
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/inv_sword_30.jpg',
-            'Hors-la-loi',
+            'Outlaw',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_rogue_deadlybrew.jpg',
-            'Assassinat',
+            'Assassination',
             false,
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_stealth.jpg',
-            'Finesse',
+            'Subtlety',
             false
         )
     ),
@@ -187,17 +211,19 @@ $class = array(
         3,
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_nature_lightningshield.jpg',
-            'Amélioration',
+            'Amelioration',
             false,
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_nature_lightning.jpg',
-            'Elémentaire',
+            'Enhancement',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_nature_magicimmunity.jpg',
-            'Restauration',
+            'Restoration',
+            false,
             false
         )
     ),
@@ -209,15 +235,18 @@ $class = array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_shadow_rainoffire.jpg',
             'Destruction',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_shadow_deathcoil.jpg',
             'Affliction',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_shadow_metamorphosis.jpg',
-            'Démonologie',
+            'Démonology',
+            false,
             false
         )
     ),
@@ -229,16 +258,19 @@ $class = array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_warrior_defensivestance.jpg',
             'Protection',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_warrior_innerrage.jpg',
-            'Fureur',
+            'Fury',
             false,
+            true
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_warrior_savageblow.jpg',
-            'Arme',
-            false
+            'Arms',
+            false,
+            true
         )
     )
 )
@@ -402,7 +434,7 @@ Snoddy, Guild Master.
                                     <span style="color: ' . $c[1] . '">' . $c[0] . '</span>
                                     <div class="float-right justify-content-end" style="display: inline-block;">';
                                     for ($i = 3; $i < (3 + ($c[2])); $i++) {
-                                        echo '<div class="spe-circle ml-2 float-right" style="background-image: url(\'' . $c[$i][0] . '\')" title="' . $c[$i][1] . '">
+                                        echo '<div class="spe-circle ml-2 float-right" style="background-image: url(\'' . $c[$i][0] . '\');' . ($c[$i][3] == true ? "filter: grayscale(100%);" : "") . '" title="' . $c[$i][1] . '">
                                         </div>';
                                     }
                                 echo '
@@ -423,7 +455,7 @@ Snoddy, Guild Master.
                     </div>
                     <div class="row pt-3 mb-3 panelbg">
                         <div class="col-12">
-                            <a class="twitter-timeline" data-lang="fr" data-height="700" data-theme="dark" data-link-color="#e87403" data-chrome="noheader transparent nofooter nofooter noborders" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a>
+                            <a class="twitter-timeline" data-lang="fr" data-height="300" data-theme="dark" data-link-color="#e87403" data-chrome="noheader transparent nofooter nofooter noborders" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a>
                             <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>                     
                         </div>
                     </div>

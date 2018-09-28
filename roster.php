@@ -71,6 +71,16 @@ $members = array(
         'images/class_icon/icon_shaman.png'
     ),
     array(
+        'TRACTOPOIRE',
+        0,
+        1,
+        '#FF7D0A',
+        'Druid',
+        'https://worldofwarcraft.com/en-gb/character/ysondre/Tractopoire',
+        'https://raider.io/characters/eu/ysondre/Tractopoire',
+        'images/class_icon/icon_druid.png'
+    ),
+    array(
         'SNODDY',
         2,
         2,
@@ -204,11 +214,11 @@ $members = array(
         'ERGRIM',
         0,
         2,
-        '#ABD473',
-        'Hunter',
+        '#FF7D0A',
+        'Druid',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Ergrimm',
         'https://raider.io/characters/eu/ysondre/Ergrimm',
-        'images/class_icon/icon_hunter.png'
+        'images/class_icon/icon_druid.png'
     )
 );
 ?>
