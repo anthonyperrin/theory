@@ -67,7 +67,7 @@ $class = array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_racial_bearform.jpg',
             'Gardian',
             false,
-            true
+            false
         )
     ),
     array(
@@ -153,12 +153,13 @@ $class = array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_holy_auraoflight.jpg',
             'Retribution',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_holy_holybolt.jpg',
             'Holy',
             false,
-            false
+            true
         )
     ),
     array(
@@ -198,10 +199,12 @@ $class = array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_rogue_deadlybrew.jpg',
             'Assassination',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_stealth.jpg',
             'Subtlety',
+            false,
             false
         )
     ),
@@ -213,6 +216,7 @@ $class = array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_nature_lightningshield.jpg',
             'Amelioration',
             false,
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/spell_nature_lightning.jpg',
@@ -264,13 +268,13 @@ $class = array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_warrior_innerrage.jpg',
             'Fury',
             false,
-            true
+            false
         ),
         array(
             'https://blzmedia-a.akamaihd.net/wow/icons/56/ability_warrior_savageblow.jpg',
             'Arms',
             false,
-            true
+            false
         )
     )
 )
@@ -434,7 +438,7 @@ Snoddy, Guild Master.
                                     <span style="color: ' . $c[1] . '">' . $c[0] . '</span>
                                     <div class="float-right justify-content-end" style="display: inline-block;">';
                                     for ($i = 3; $i < (3 + ($c[2])); $i++) {
-                                        echo '<div class="spe-circle ml-2 float-right" style="background-image: url(\'' . $c[$i][0] . '\');' . ($c[$i][3] == true ? "filter: grayscale(100%);" : "") . '" title="' . $c[$i][1] . '">
+                                        echo '<div class="spe-circle ml-2 float-right" style="background-image: url(\'' . $c[$i][0] . '\');' . ($c[$i][3] == false ? "filter: grayscale(100%);" : "") . '" title="' . $c[$i][1] . '">
                                         </div>';
                                     }
                                 echo '
@@ -463,6 +467,7 @@ Snoddy, Guild Master.
             </div>
         </div>
     </div>
+
     
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

@@ -8,7 +8,9 @@ $members = array(
         'Death Knight',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Haalinga',
         'https://raider.io/characters/eu/ysondre/Haalinga',
-        'images/class_icon/icon_dk.png'
+        'images/class_icon/icon_dk.png',
+        '',
+        ''
     ),
     array(
         'PROBE',
@@ -18,7 +20,9 @@ $members = array(
         'Monk',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Probe',
         'https://raider.io/characters/eu/ysondre/Probe',
-        'images/class_icon/icon_monk.png'
+        'images/class_icon/icon_monk.png',
+        '',
+        ''
     ),
     array(
         'HGEGEN',
@@ -28,7 +32,9 @@ $members = array(
         'Paladin',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Ohno',
         'https://raider.io/characters/eu/ysondre/Ohno',
-        'images/class_icon/icon_paladin.png'
+        'images/class_icon/icon_paladin.png',
+        'https://twitter.com/Serahf_wow',
+        'https://www.twitch.tv/serrahf'
     ),
     array(
         'SAIKSYPWNZ',
@@ -38,7 +44,9 @@ $members = array(
         'Monk',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Saiksypwnz',
         'https://raider.io/characters/eu/ysondre/Saiksypwnz',
-        'images/class_icon/icon_monk.png'
+        'images/class_icon/icon_monk.png',
+        '',
+        'https://www.twitch.tv/saiksypwnz'
     ),
     array(
         'ZHOUMPO',
@@ -48,7 +56,9 @@ $members = array(
         'Priest',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Zhoumpette',
         'https://raider.io/characters/eu/ysondre/Zhoumpette',
-        'images/class_icon/icon_priest.png'
+        'images/class_icon/icon_priest.png',
+        '',
+        ''
     ),
     array(
         'HELYON',
@@ -58,7 +68,9 @@ $members = array(
         'Priest',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Hélyon',
         'https://raider.io/characters/eu/ysondre/Hélyon',
-        'images/class_icon/icon_priest.png'
+        'images/class_icon/icon_priest.png',
+        '',
+        ''
     ),
     array(
         'PIAIR',
@@ -68,7 +80,9 @@ $members = array(
         'Shaman',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Piair',
         'https://raider.io/characters/eu/ysondre/Piair',
-        'images/class_icon/icon_shaman.png'
+        'images/class_icon/icon_shaman.png',
+        '',
+        ''
     ),
     array(
         'TRACTOPOIRE',
@@ -78,7 +92,9 @@ $members = array(
         'Druid',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Tractopoire',
         'https://raider.io/characters/eu/ysondre/Tractopoire',
-        'images/class_icon/icon_druid.png'
+        'images/class_icon/icon_druid.png',
+        '',
+        ''
     ),
     array(
         'SNODDY',
@@ -88,7 +104,9 @@ $members = array(
         'Warlock',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Cirise',
         'https://raider.io/characters/eu/ysondre/Cirise',
-        'images/class_icon/icon_warlock.png'
+        'images/class_icon/icon_warlock.png',
+        '',
+        ''
     ),
     array(
         'TERKAL',
@@ -98,7 +116,9 @@ $members = array(
         'Hunter',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Batlavoine',
         'https://raider.io/characters/eu/ysondre/Batlavoine',
-        'images/class_icon/icon_hunter.png'
+        'images/class_icon/icon_hunter.png',
+        '',
+        ''
     ),
     array(
         'NYRLAAS',
@@ -108,7 +128,9 @@ $members = array(
         'Rogue',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Nyrlaas',
         'https://raider.io/characters/eu/ysondre/Nyrlaas',
-        'images/class_icon/icon_rogue.png'
+        'images/class_icon/icon_rogue.png',
+        '',
+        ''
     ),
     array(
         'SILLANA',
@@ -118,7 +140,9 @@ $members = array(
         'Paladin',
         'https://worldofwarcraft.com/en-gb/character/ysondre/S%C3%ADll%C3%A0na',
         'https://raider.io/characters/eu/ysondre/S%C3%ADll%C3%A0na',
-        'images/class_icon/icon_paladin.png'
+        'images/class_icon/icon_paladin.png',
+        '',
+        ''
     ),
     array(
         'HEMLBREAKER',
@@ -128,7 +152,9 @@ $members = array(
         'Warrior',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Helmbreaker',
         'https://raider.io/characters/eu/ysondre/Helmbreaker',
-        'images/class_icon/icon_warrior.png'
+        'images/class_icon/icon_warrior.png',
+        '',
+        ''
     ),
     array(
         'FLAELLE',
@@ -138,7 +164,9 @@ $members = array(
         'Demon Hunter',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Flaelle',
         'https://raider.io/characters/eu/ysondre/Flaelle',
-        'images/class_icon/icon_dh.png'
+        'images/class_icon/icon_dh.png',
+        '',
+        ''
     ),
     array(
         'BREWJITSU',
@@ -148,7 +176,9 @@ $members = array(
         'Rogue',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Brewjitsu',
         'https://raider.io/characters/eu/ysondre/Brewjitsu',
-        'images/class_icon/icon_rogue.png'
+        'images/class_icon/icon_rogue.png',
+        '',
+        ''
     ),
     array(
         'HERATOSTHENE',
@@ -158,7 +188,9 @@ $members = array(
         'Warlock',
         'https://worldofwarcraft.com/en-gb/character/ysondre/H%C3%A9ratosth%C3%A8ne',
         'https://raider.io/characters/eu/ysondre/H%C3%A9ratosth%C3%A8ne',
-        'images/class_icon/icon_warlock.png'
+        'images/class_icon/icon_warlock.png',
+        '',
+        ''
     ),
     array(
         'MIJ',
@@ -168,7 +200,9 @@ $members = array(
         'Mage',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Mij',
         'https://raider.io/characters/eu/ysondre/Mij',
-        'images/class_icon/icon_mage.png'
+        'images/class_icon/icon_mage.png',
+        '',
+        ''
     ),
     array(
         'FYAT',
@@ -178,7 +212,9 @@ $members = array(
         'Death Knight',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Infdp',
         'https://raider.io/characters/eu/ysondre/Infdp',
-        'images/class_icon/icon_dk.png'
+        'images/class_icon/icon_dk.png',
+        '',
+        ''
     ),
     array(
         'CIZO',
@@ -188,7 +224,9 @@ $members = array(
         'Mage',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Cizo',
         'https://raider.io/characters/eu/ysondre/Cizo',
-        'images/class_icon/icon_mage.png'
+        'images/class_icon/icon_mage.png',
+        '',
+        ''
         ),
     array(
         'SPAECTRA',
@@ -198,7 +236,9 @@ $members = array(
         'Priest',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Spæctra',
         'https://raider.io/characters/eu/ysondre/Spæctra',
-        'images/class_icon/icon_priest.png'
+        'images/class_icon/icon_priest.png',
+        '',
+        ''
     ),
     array(
         'DYSTH',
@@ -208,7 +248,9 @@ $members = array(
         'Mage',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Dysth',
         'https://raider.io/characters/eu/ysondre/Dysth',
-        'images/class_icon/icon_mage.png'
+        'images/class_icon/icon_mage.png',
+        '',
+        ''
     ),
     array(
         'ERGRIM',
@@ -218,7 +260,9 @@ $members = array(
         'Druid',
         'https://worldofwarcraft.com/en-gb/character/ysondre/Ergrimm',
         'https://raider.io/characters/eu/ysondre/Ergrimm',
-        'images/class_icon/icon_druid.png'
+        'images/class_icon/icon_druid.png',
+        '',
+        ''
     )
 );
 ?>
@@ -324,7 +368,22 @@ $members = array(
                             </a>
                             <a href="' . $m[6] . '" class="btn btn-dark mr-2" target="_blank">
                                 <img width="30px" height="30px" src="images/icon_SVG/raiderio.svg">                            
-                            </a>
+                            </a>';
+                        if (!empty($m[8])) {
+                            echo '
+                            <a href="' . $m[8] . '" class="btn btn-dark mr-2" target="_blank">
+                                <img width="30px" height="30px" src="images/icon_SVG/twitter.svg">                            
+                            </a>\';
+                            ';
+                        }
+                        if (!empty($m[9])) {
+                            echo '
+                            <a href="' . $m[9] . '" class="btn btn-dark mr-2" target="_blank">
+                                <img width="30px" height="30px" src="images/icon_SVG/twitch.svg">                            
+                            </a>\';
+                            ';
+                        }
+                        echo '
                         </div>
                     </div>
                 </div>
